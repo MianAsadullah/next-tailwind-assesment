@@ -16,18 +16,20 @@ export default function Main() {
                     을 받아보세요.
                 </div>
 
+                <div className="gradient-box">
+                    <div className="">
+                        FAST
+                    </div>
+                    <div>
+                        X2
+                    </div>
+                </div>
+
                 <div className="flex">
 
                     <div className="">
 
-                        <div className="gradient-box">
-                            <div className="">
-                                FAST
-                            </div>
-                            <div>
-                                X2
-                            </div>
-                        </div>
+
                     </div>
 
                 </div>
